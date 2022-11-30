@@ -15,7 +15,7 @@ import java.util.List;
 public class CastawayCoconutItem extends Item {
 	public CastawayCoconutItem() {
 		super(new Item.Properties().tab(CreativeModeTab.TAB_FOOD).stacksTo(64).rarity(Rarity.COMMON)
-				.food((new FoodProperties.Builder()).nutrition(4).saturationMod(0.3f)
+				.food((new FoodProperties.Builder()).nutrition(4).saturationMod(2.3f)
 
 						.build()));
 	}

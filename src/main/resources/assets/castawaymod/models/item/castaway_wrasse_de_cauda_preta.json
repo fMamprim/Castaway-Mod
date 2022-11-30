@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "castawaymod:items/wrasse_de_cauda_preta"
+  }
+}

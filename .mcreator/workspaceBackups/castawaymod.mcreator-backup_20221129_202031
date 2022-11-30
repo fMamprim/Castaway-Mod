@@ -1,0 +1,257 @@
+{
+  "mod_elements": [
+    {
+      "name": "CastawayCoconut",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_coconut"
+    },
+    {
+      "name": "CastawayMarisco",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_marisco"
+    },
+    {
+      "name": "CastawayAbacaxi",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_abacaxi"
+    },
+    {
+      "name": "CastawayCarambola",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_carambola"
+    },
+    {
+      "name": "CastawayBanana",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_banana"
+    },
+    {
+      "name": "CastawayCidra",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_cidra"
+    },
+    {
+      "name": "CastawayBagasBrancas",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_bagas_brancas"
+    },
+    {
+      "name": "CastawayFramboesa",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_framboesa"
+    },
+    {
+      "name": "CastawayMamaoPapaya",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_mamao_papaya"
+    },
+    {
+      "name": "CastawayLaranjaSangue",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_laranja_sangue"
+    },
+    {
+      "name": "CastawayToranja",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_toranja"
+    },
+    {
+      "name": "CastawayLichia",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_lichia"
+    },
+    {
+      "name": "CastawayMelao",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_melao"
+    },
+    {
+      "name": "CastawayFrutaPao",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_fruta_pao"
+    },
+    {
+      "name": "CastawayManga",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_manga"
+    },
+    {
+      "name": "CastawayMelancia",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_melancia"
+    },
+    {
+      "name": "CastawayTangerina",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_tangerina"
+    },
+    {
+      "name": "CastawayLimao",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_limao"
+    },
+    {
+      "name": "CastawayMangostao",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_mangostao"
+    },
+    {
+      "name": "CastawayPessego",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_pessego"
+    },
+    {
+      "name": "CastawayMorango",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_morango"
+    },
+    {
+      "name": "CastawayCaqui",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_caqui"
+    },
+    {
+      "name": "CastawayGoiaba",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_goiaba"
+    },
+    {
+      "name": "CastawayTamara",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_tamara"
+    },
+    {
+      "name": "CastawayCacau",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "castaway_cacau"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.castawaymod.castaway_goiaba": "Goiaba",
+      "item.castawaymod.castaway_melancia": "Melancia",
+      "item.castawaymod.castaway_marisco": "Marisco",
+      "item.castawaymod.castaway_tamara": "Tâmara",
+      "item.castawaymod.castaway_framboesa": "Framboesa",
+      "item.castawaymod.castaway_fruta_pao": "Fruta-Pão",
+      "item.castawaymod.castaway_cacau": "Tâmara",
+      "item.castawaymod.castaway_laranja_sangue": "Laranja-Sangue",
+      "item.castawaymod.castaway_melao": "Melão",
+      "item.castawaymod.castaway_banana": "Banana",
+      "item.castawaymod.castaway_caqui": "Caqui",
+      "item.castawaymod.castaway_lichia": "Lichia",
+      "item.castawaymod.castaway_pessego": "Pêssego",
+      "item.castawaymod.castaway_abacaxi": "Abacaxi",
+      "item.castawaymod.castaway_toranja": "Toranja",
+      "item.castawaymod.castaway_bagas_brancas": "Bagas Brancas",
+      "item.castawaymod.castaway_mamao_papaya": "Mamão Papaya",
+      "item.castawaymod.castaway_tangerina": "Tangerina",
+      "item.castawaymod.castaway_cidra": "Cidra",
+      "item.castawaymod.castaway_morango": "Morango",
+      "item.castawaymod.castaway_manga": "Manga",
+      "item.castawaymod.castaway_mangostao": "Mangostão",
+      "item.castawaymod.castaway_coconut": "Coco",
+      "item.castawaymod.castaway_carambola": "Carambola",
+      "item.castawaymod.castaway_limao": "Limão"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "castawaymod",
+    "modName": "Castaway-Mod",
+    "version": "1.0.0",
+    "author": "FELIPE, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.castawaymod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
