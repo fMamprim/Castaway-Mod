@@ -7,5 +7,5 @@ Lembrete: Colocar plantas e peixes que faltaram
 
 ### Pras próximas updates:
 - Adicionar árvores (v0.1.3)
-- Adicionar pesca dos peixes (v0.1.4)
+- Adicionar pesca dos peixes (v0.1.4) (vara de pesca nova (bambu, etc) (peixe pequeno: lagoa, peixe médio: rio, peixe grande:oceano)
 - Talvez adicionar portas do The Sims e paredes e telhados
