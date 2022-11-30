@@ -9,6 +9,6 @@ Lembrete: Colocar plantas e peixes que faltaram
 - Adicionar árvores (v0.1.3)
 - Adicionar pesca dos peixes (v0.1.4) (vara de pesca nova (bambu, etc) (peixe pequeno: lagoa, peixe médio: rio, peixe grande:oceano)
 - Talvez adicionar portas do The Sims e paredes e telhados
-- Espalhar arbustos no formato do The Sims 2 Castaway para cada tipo de planta plantável que drope a semente da planta específica (v0.1.5)
+- Espalhar arbustos no formato do The Sims 2 Castaway para cada tipo de planta plantável para colher clicando com o direito ou quebrando ou que drope a semente da planta específica (v0.1.5)
 - Espalhar árvores pelo mapa para as plantas que nascem em árvores (v0.1.6)
 - Espalhar plantas não plantáveis pelo mapa (v0.1.7)
